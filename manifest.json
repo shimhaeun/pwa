@@ -1,0 +1,18 @@
+{
+    "name" : "HaeunKurly",
+    "short_name" : "Kurly",
+    "description" : "start for PWA Kurly",
+    "scope" : ".",
+    "start_url" : "./",
+    "display" : "fullscreen",
+    "orientation" : "protrait",
+    "theme_color" : "#ffffff",
+    "background_color" : "#ffffff",
+    "icons" : [
+      {
+          "src" : "images/icons/android-chrome-512x512.png",
+          "sizes" : "512x512",
+          "type" : "image/png"
+      }  
+    ]
+}
